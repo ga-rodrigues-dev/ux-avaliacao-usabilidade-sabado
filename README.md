@@ -1,7 +1,5 @@
 # Avaliação de Usabilidade — material do sábado
 
-Material para o grupo **sem Notion**. Abram os arquivos neste repositório: o GitHub já renderiza o Markdown.
-
 | Arquivo | Para que serve |
 |---|---|
 | [01-guia.md](./01-guia.md) | Como fazer a atividade (ler no começo, ~10 min) |
