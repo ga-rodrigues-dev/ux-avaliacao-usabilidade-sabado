@@ -4,8 +4,9 @@ Material para o grupo **sem Notion**. Abram os arquivos neste repositório: o Gi
 
 | Arquivo | Para que serve |
 |---|---|
-| [03-formulario-checklist.md](./03-formulario-checklist.md) | **Usar agora:** o que já está decidido + o que falta + tabelas |
-| [01-guia.md](./01-guia.md) | Como fazer a atividade (ler se alguém se perder) |
+| [03-formulario-checklist.md](./03-formulario-checklist.md) | Acordos do grupo + checklist |
+| [04-gabriel-ah-individual.md](./04-gabriel-ah-individual.md) | **Tabela individual do Gabriel** (copiar para o slide) |
+| [01-guia.md](./01-guia.md) | Como fazer a atividade |
 | [02-modelos.md](./02-modelos.md) | Modelos longos (backup) |
 
-**Ordem agora:** seção 0 do formulário (4 perguntas) → AH individual (≥5) → consolidar → pinça → AVA. Apresentação **13h**, 15 minutos.
+**Ordem agora:** AH individual (≥5) → consolidar → pinça → AVA. Apresentação **13h**, 15 minutos.
